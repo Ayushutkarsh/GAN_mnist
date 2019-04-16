@@ -1,2 +1,2 @@
 # GAN_mnist
-![alt text](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/000.png)
+![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/000.png)
