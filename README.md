@@ -1,8 +1,8 @@
 # GAN_mnist
-Coding a vanilla GAN from scratch in Tensorflow and testing it on mnist data.
-##Output of Layer at 1st Epoch
+<br> Coding a vanilla GAN from scratch in Tensorflow and testing it on mnist data. </br>
+## Output of Layer at 1st Epoch
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/000.png)
-Note that the images are nothing but noise signals indifferentiable from each other
+<br> Notice that the images are nothing but noise signals indifferentiable from each other </br>
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/009.png)
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/019.png)
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/029.png)
