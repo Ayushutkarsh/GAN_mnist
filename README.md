@@ -8,6 +8,7 @@
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/019.png)
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/029.png)
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/039.png)
+<br> After around 40 epochs, the model is able to generate most of the numbers similar to how we perceive them </br>
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/049.png)
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/059.png)
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/079.png)
