@@ -1,7 +1,7 @@
 # GAN_mnist
 <br> Coding a vanilla GAN from scratch in Tensorflow and testing it on mnist data. </br>
 ## Epoch -01
-![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/000.png)
+![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/Output/master/000.png)
 <br> Notice that the images are nothing but noise signals indifferentiable from each other </br>
 ## Epoch -10
 ![Noisy Image During 1st Epoch](https://raw.githubusercontent.com/Ayushutkarsh/GAN_mnist/master/009.png)
